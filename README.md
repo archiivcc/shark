@@ -1,16 +1,11 @@
 <p align="center">
   <a href="https://markd.it" alt="Homepage" title="Homepage" style="display: flex; flex-direction: column; align-items: center; gap: 1em; text-decoration: none;">
     <img src="static/favicon.svg" height="120" alt="logo">
-    <h1 align="center">MarkD</h1>
+    <h1 align="center">SharkD</h1>
   </a>
 </p>
 
-MarkD (sounds like "maarkt" when pronounced) is an advanced live markdown editor in your browser. It
-is designed to be a sleek, fast and opinionated markdown editor that can be used to write and
-preview markdown files in real-time for school, work or research. It is built using Svelte and
-Carta, all components are hand made using tailwind and svelte. This project is actively maintained
-and updated almost daily and named [FMHY](https://fmhy.net/devtools#markdown-editors)'s #1 Markdown
-editor.
+SharkD.
 
 <sup>
   Sleek, fast and opinionated open-source markdown editor.
@@ -41,17 +36,16 @@ editor.
 
 ![Editor example](.github/editor-preview.png) ![Printer preview](.github/printer-preview.png)
 
-![Glaze](.github/glaze.png)
-
 ### Contact Us
 
-- [GitHub Issues](https://github.com/itzCozi/markd/issues)
-- [Developers Email](mailto:dev@wyzie.ru)
+- [GitHub Issues](https://github.com/archiivcc/sharkd/issues)
+- [Developers Email](mailto:chase@archiiv.cc)
 
-Our license is MIT and can be found on our website [here](https://markd.it/license).
+Our license is MIT and can be found on our website [here]().
 
 ---
 
 <sup>
-  Created by <a href="https://github.com/itzcozi" title="BadDeveloper's github">BadDeveloper</a> and <a href="https://github.com/Pasithea0" title="Pas's github">Pasithea</a> with 💙
+  Created by <a href="https://github.com/itzcozi" title="BadDeveloper's github">BadDeveloper</a> and <a href="https://github.com/Pasithea0" title="Pas's github">Pasithea</a> with 💙 </br>
+  Edited by <a href="https://github.com/archiivv" title="archiivv's github">archiivv</a> with even more 💙
 </sup>
