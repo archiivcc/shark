@@ -34,8 +34,6 @@ SharkD.
 - Light mode
 - Zen mode
 
-![Editor example](.github/editor-preview.png) ![Printer preview](.github/printer-preview.png)
-
 ### Contact Us
 
 - [GitHub Issues](https://github.com/archiivcc/sharkd/issues)
