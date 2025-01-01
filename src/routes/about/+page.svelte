@@ -16,7 +16,12 @@
   <div class="flex justify-center my-3">
     <TextButton
       onClick={() => open("https://github.com/itzcozi/markd", "_blank")}
-      title="Original source code"
+      title="Original Source Code"
+      className="w-full flex justify-center items-center">
+    </TextButton>
+    <TextButton
+      onClick={() => open("https://github.com/archiivcc/sharkd", "_blank")}
+      title="SharkD Source Code"
       className="w-full flex justify-center items-center">
     </TextButton>
   </div>

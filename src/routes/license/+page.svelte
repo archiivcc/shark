@@ -35,7 +35,10 @@
         title="Home">Home</a>
       <a
         href="https://github.com/itzcozi/markd"
-        title="Source code">Source code</a>
+        title="Source code">Original Source Code</a>
+      <a
+        href="https://github.com/archiivcc/sharkd"
+        title="Source code">SharkD Source Code</a>
     </div>
   </div>
 </div>

@@ -89,7 +89,7 @@
             title="GitHub"
             onClick={() => {
               closeSidebar();
-              window.open("https://github.com/archiivcc/shark", "_blank");
+              window.open("https://github.com/archiivcc/sharkd", "_blank");
             }}>
             <Github />
           </LargeIconButton>
