@@ -23,10 +23,14 @@
       Created by <a
         href="https://github.com/itzcozi"
         title="BadDeveloper's github">BadDeveloper</a>
-      and
+      ,
       <a
         href="https://github.com/Pasithea0"
-        title="Pas's github">Pasithea</a> with 💙
+        title="Pas's github">Pasithea</a>
+      and
+      <a
+        href="https://github.com/archiivv"
+        title="arch's github">archiiv</a> with 💙
     </Paragraph>
   </div>
 </div>

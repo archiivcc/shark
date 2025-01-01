@@ -9,7 +9,7 @@
 
 <LargePageLayout>
   <h2 class="text-3xl mb-2 font-semibold text-type-emphasized">
-    How to use <span class="underline decoration-1 underline-offset-4 decoration-wavy">MarkDown</span
+    How to use <span class="underline decoration-1 underline-offset-4 decoration-wavy">SharkDown</span
     >
   </h2>
   <Paragraph>

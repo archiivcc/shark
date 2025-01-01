@@ -15,18 +15,22 @@
 
 <div
   class="py-6 mx-2 bg-mono-background flex flex-wrap justify-center items-center overflow-hidden">
-  <div class="w-[97%] p-5 bg-mono-accent max-w-4xl rounded-md">
+  <div class="w-[97%] p-5 bg-mono-accent max-w-2xl rounded-md">
     {@render children?.()}
 
     <Divider />
-    <Paragraph className="text-xs">
+    <Paragraph className="text-xs mt-2">
       Created by <a
         href="https://github.com/itzcozi"
         title="BadDeveloper's github">BadDeveloper</a>
-      and
+      ,
       <a
         href="https://github.com/Pasithea0"
-        title="Pas's github">Pasithea</a> with 💙
+        title="Pas's github">Pasithea</a>
+      and
+      <a
+        href="https://github.com/archiivv"
+        title="arch's github">archiiv</a> with 💙
     </Paragraph>
   </div>
 </div>
