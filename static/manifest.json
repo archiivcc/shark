@@ -1,7 +1,7 @@
 {
-  "name": "MarkD",
-  "short_name": "MarkD",
-  "description": "An advanced, opinionated live Markdown editor built with SvelteKit from scratch.",
+  "name": "SharkD",
+  "short_name": "SharkD",
+  "description": "An advanced, opinionated live Markdown editor built with SvelteKit and forked from MarkD.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#202020",

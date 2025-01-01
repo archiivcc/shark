@@ -89,7 +89,7 @@
             title="GitHub"
             onClick={() => {
               closeSidebar();
-              window.open("https://github.com/itzcozi/markd", "_blank");
+              window.open("https://github.com/archiivcc/shark", "_blank");
             }}>
             <Github />
           </LargeIconButton>
@@ -97,7 +97,7 @@
             title="Email"
             onClick={() => {
               closeSidebar();
-              open("mailto:dev@wyzie.ru", "_blank");
+              open("mailto:chase@archiiv.cc", "_blank");
             }}>
             <Mail />
           </LargeIconButton>

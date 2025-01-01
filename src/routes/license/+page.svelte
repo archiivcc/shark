@@ -7,9 +7,11 @@
   <div class="mx-auto flex flex-col gap-2 max-w-2xl">
     <h3 class="text-2xl text-type-emphasized mb-1">MIT License</h3>
     <p>
-      Copyright (c) 2024 <a
+      Copyright (c) 2024, 2025 <a
         href="https://github.com/itzcozi"
-        title="Github">Cooper Ransom</a>
+        title="Github">Cooper Ransom</a>, <a
+        href="https://github.com/archiivv"
+        title="Github">Chase McCaskill</a>
       <NewLine />
       Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
       associated documentation files (the "Software"), to deal in the Software without restriction, including

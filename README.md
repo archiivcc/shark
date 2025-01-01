@@ -8,7 +8,7 @@
 SharkD.
 
 <sup>
-  Sleek, fast and opinionated open-source markdown editor.
+  An advanced, opinionated live Markdown editor built with SvelteKit and forked from MarkD.
 </sup>
 
 ## Features

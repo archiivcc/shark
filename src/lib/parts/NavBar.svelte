@@ -52,7 +52,7 @@
           alt="logo"
           title="Home"
           class="w-10 h-10" />
-        <h1 class="text-4xl font-semibold text-type-emphasized">MarkD</h1>
+        <h1 class="text-4xl font-semibold text-type-emphasized">SharkD</h1>
       </div>
     </TextButton>
     <div class="flex flex-row gap-3 items-center">
